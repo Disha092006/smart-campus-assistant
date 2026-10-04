@@ -1,4 +1,12 @@
 # Smart Campus Assistant
+## Screenshots
+
+![Login](screenshots/loginpage.png)
+![Dashboard](screenshots/dashboard.png)
+![Attendance](screenshots/attendance.png)
+![Tasks](screenshots/tasks.png)
+![Expenses](screenshots/expenses.png)
+![Study Planner](screenshots/planner.png)
 
 A Java desktop application (Swing + MySQL + JDBC) that helps students manage campus life.
 
