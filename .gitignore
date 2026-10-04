@@ -1,0 +1,6 @@
+target/
+.vscode/
+.idea/
+*.class
+# NEVER push your database password to GitHub:
+db.properties
